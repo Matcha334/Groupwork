@@ -1,0 +1,225 @@
+--Model1/dat0--
+
+pos,err(answer)
+27817,15689
+pos,err(group)
+27986,15018
+
+real	0m0.284s
+user	0m0.194s
+sys	0m0.051s
+
+--Model1/dat1--
+
+pos,err(answer)
+30029,15710
+pos,err(group)
+30053,14909
+
+real	0m0.245s
+user	0m0.145s
+sys	0m0.062s
+
+--Model1/dat2--
+
+pos,err(answer)
+32787,16740
+pos,err(group)
+32458,15903
+
+real	0m0.295s
+user	0m0.192s
+sys	0m0.061s
+
+--Model1/dat3--
+
+pos,err(answer)
+9857,15684
+pos,err(group)
+9658,14907
+
+real	0m0.334s
+user	0m0.250s
+sys	0m0.029s
+
+--Model1/dat4--
+
+pos,err(answer)
+20310,15715
+pos,err(group)
+20518,15080
+
+real	0m0.268s
+user	0m0.205s
+sys	0m0.020s
+
+--Model1/dat5--
+
+pos,err(answer)
+39154,15527
+pos,err(group)
+38873,14879
+
+real	0m0.318s
+user	0m0.247s
+sys	0m0.031s
+
+--Model1/dat6--
+
+pos,err(answer)
+41883,16527
+pos,err(group)
+41638,15536
+
+real	0m0.367s
+user	0m0.295s
+sys	0m0.031s
+
+--Model1/dat7--
+
+pos,err(answer)
+18369,15440
+pos,err(group)
+18489,14729
+
+real	0m0.257s
+user	0m0.184s
+sys	0m0.031s
+
+--Model1/dat8--
+
+pos,err(answer)
+43868,15754
+pos,err(group)
+43625,19404
+
+real	0m0.926s
+user	0m0.671s
+sys	0m0.213s
+
+--Model1/dat9--
+
+pos,err(answer)
+36994,15545
+pos,err(group)
+37078,14999
+
+real	0m0.298s
+user	0m0.224s
+sys	0m0.021s
+
+--Model2/dat0--
+
+pos,err(answer)
+29771,34379
+pos,err(group)
+30162,30888
+
+real	0m1.788s
+user	0m1.341s
+sys	0m0.386s
+
+--Model2/dat1--
+
+pos,err(answer)
+40856,34632
+pos,err(group)
+43148,42913
+
+real	0m2.041s
+user	0m1.771s
+sys	0m0.211s
+
+--Model2/dat2--
+
+pos,err(answer)
+36306,32389
+pos,err(group)
+36349,41845
+
+real	0m4.763s
+user	0m3.848s
+sys	0m0.874s
+
+--Model2/dat3--
+
+pos,err(answer)
+45594,35685
+pos,err(group)
+46045,44673
+
+real	0m1.993s
+user	0m1.735s
+sys	0m0.161s
+
+--Model2/dat4--
+
+pos,err(answer)
+11043,33470
+pos,err(group)
+7522,43501
+
+real	0m1.916s
+user	0m1.660s
+sys	0m0.101s
+
+--Model2/dat5--
+
+pos,err(answer)
+17419,31179
+pos,err(group)
+14507,40244
+
+real	0m5.451s
+user	0m4.643s
+sys	0m0.754s
+
+--Model2/dat6--
+
+pos,err(answer)
+30327,34967
+pos,err(group)
+30561,31701
+
+real	0m1.859s
+user	0m1.682s
+sys	0m0.111s
+
+--Model2/dat7--
+
+pos,err(answer)
+34045,34813
+pos,err(group)
+34072,46635
+
+real	0m7.927s
+user	0m6.554s
+sys	0m1.301s
+
+--Model2/dat8--
+
+pos,err(answer)
+16468,31148
+pos,err(group)
+25985,30862
+
+real	0m1.637s
+user	0m1.455s
+sys	0m0.131s
+
+--Model2/dat9--
+
+pos,err(answer)
+39154,33147
+pos,err(group)
+39039,42600
+
+real	0m6.795s
+user	0m6.034s
+sys	0m0.672s
+
+Model1の平均実行時間
+.6854
+
+Model2の平均実行時間
+4.7469
